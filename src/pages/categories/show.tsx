@@ -14,8 +14,8 @@ export const CategoryShow = () => {
     <Show isLoading={isLoading}>
       <Title level={5}>{"ID"}</Title>
       <NumberField value={record?.id ?? ""} />
-      <Title level={5}>{"Title"}</Title>
-      <TextField value={record?.title} />
+      <Title level={5}>{"Name"}</Title>
+      <TextField value={record?.name} />
     </Show>
   );
 };

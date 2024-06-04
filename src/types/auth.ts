@@ -1,0 +1,21 @@
+export type User = {
+  // birthDate: string | null;
+  // countryCode: null;
+  // createdAt: string;
+  // email: string;
+  // emailVerifiedAt: string;
+  // firstName: string | null;
+  // hasSubscription: number;
+  // id: number;
+  // idVerificationAt: string | null;
+  // isBanned: number;
+  // isCoach: number;
+  // isStudent: number;
+  // lastLoggedAt: string;
+  // lastName: string | null;
+  // mobile: string | null;
+  // mobileVerifiedAt: string;
+  // rememberToken: string | null;
+  // sex: string | null;
+  // updatedAt: string | null;
+};
